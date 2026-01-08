@@ -6,9 +6,9 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <Authors>Krishnendu Paul</Authors>
-    <Company>Krisshnendu.com</Company>
+    <Company>krishnendu.com</Company>
     <Description>Advanced PowerShell Payload Embedding Tool</Description>
-    <RepositoryUrl>https://krisshnendu.com</RepositoryUrl>
+    <RepositoryUrl>https://github.com/bidhata/PS1Stealth</RepositoryUrl>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <AssemblyName>PhotoViewer</AssemblyName>
     <Product>Photo Viewer Utility</Product>

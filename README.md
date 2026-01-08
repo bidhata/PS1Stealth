@@ -376,7 +376,8 @@ This project is licensed under the MIT License for educational and authorized te
 ## 👨‍💻 Developer
 
 **Krishnendu Paul**
-- Website: [https://krisshnendu.com](https://krisshnendu.com)
+- 🌐 Website: [https://krishnendu.com](https://krishnendu.com)
+- 🐙 GitHub: [https://github.com/bidhata/PS1Stealth](https://github.com/bidhata/PS1Stealth)
 
 ## 📧 Contact
 
